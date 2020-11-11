@@ -10,7 +10,7 @@
 
     <a id="volver" href="{{action('EstructurasDeControl@inicio')}}"><img src="images\atras.png" alt="" width="60px"></a>
     <header>
-        <h1>Diego Rivera</h1>
+        <h1>Diego Rivera.</h1>
     </header>
     <main>
         <img id="perfil" src="images\diegorivera.jpg" alt="">
